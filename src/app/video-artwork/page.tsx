@@ -12,17 +12,17 @@ const videoEditingProjects = [
   {
     title: "Banaras Movie",
     desc: "A cinematic narrative exploring the visceral textures and deep culture of Banaras.",
-    video: "/videos/banaras-movie.mp4"
+    video: "https://drive.google.com/file/d/1-u8WQp26u_d2MnKOsmiMJ2ou_6iejIwn/view?t=6.881"
   },
   {
     title: "Cinematic Edit",
     desc: "Precision color grading and look development showcasing high-end aesthetics.",
-    video: "/videos/cinematic-edit.mp4"
+    video: "https://drive.google.com/file/d/1FFi4ZlLMKca48G2lwpwcUD4JBxIQzQ-o/view?t=3.987"
   },
   {
     title: "Trending Edit",
     desc: "High-velocity visual effects and rhythmic pacing for social media impact.",
-    video: "/videos/trending-edit.mp4"
+    video: "https://drive.google.com/file/d/1e6JtArGHBdAJt0r2hYoNYiujpl67kh7e/view?t=2.614"
   },
 ];
 
