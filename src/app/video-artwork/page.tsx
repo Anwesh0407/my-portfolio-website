@@ -35,7 +35,7 @@ const motionGraphicsProjects = [
   {
     title: "Interface Motion",
     desc: "Interactive motion systems designed for futuristic visualization.",
-    video: "https://drive.google.com/file/d/1C-JHwgqLYD8KFZOnB7-y1JLAfBuRDKkH/view?usp=sharing"
+    video: "https://drive.google.com/file/d/1OfTNB6ZJ8g9T0spX38SDm_6e-_p9df5q/view?usp=sharing"
   },
   {
     title: "Fragmented Decay (Simulation)",
