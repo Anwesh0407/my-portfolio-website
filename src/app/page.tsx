@@ -191,6 +191,12 @@ export default function HomePage() {
       {/* CTA */}
       <section className="cta-footer" id="cta">
         <div className="container">
+          <p className="body-md" style={{ marginBottom: "16px", color: "var(--color-primary)" }}>
+            Please reach out to my <a href="https://www.instagram.com/a.nw.esh.04?igsh=MTNkY2ltMnM0M3VvYg%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline', fontWeight: 600 }}>Instagram handle</a> to see the latest updates.
+          </p>
+          <p className="body-md" style={{ marginBottom: "32px", color: "var(--color-primary)" }}>
+            <a href="/documents/Anwesh%20Resume.pdf" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline', fontWeight: 600, fontSize: '18px' }}>Click for resume</a>
+          </p>
           <p className="cta-footer-text">Interested in working together?</p>
           <div style={{ display: "flex", gap: "12px", justifyContent: "center" }}>
             <Link href="/contact" className="btn-primary">
